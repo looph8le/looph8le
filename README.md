@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @looph8le
-- 👀 I’m interested in ...coding and robotics
-- 🌱 I’m currently learning ...robotics
+- 👀 I’m interested in ...anything
+- 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ... nothing so far
-- 📫 How to reach me ... instagram @looph8le
-
-<!---
-looph8le/looph8le is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  discord: looph8le#3782
+-  twitter: looph8le
+-  reddit: u/Impressive_Self8162
+-  snapchat: SZLL2509
+-  xbox: SZLL#7061
